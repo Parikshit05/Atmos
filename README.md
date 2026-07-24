@@ -80,7 +80,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/atmos.git
+git clone https://github.com/Parikshit05/Atmos.git
 cd atmos
 
 # Install dependencies
