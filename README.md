@@ -6,9 +6,9 @@
 
 ---
 
-## Live Demo
+## 🌐 Live Demo
 
-> *Deploy to Vercel/Netlify and add your link here*
+👉 [Try Atmos](https://atmos-livid-xi.vercel.app/)
 
 ---
 
